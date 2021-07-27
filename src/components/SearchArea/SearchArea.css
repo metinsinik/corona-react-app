@@ -1,0 +1,26 @@
+.button {
+    background: #527793 !important;
+    color: white !important;
+    box-shadow: 0 0 20px #000 !important;
+    transition: box-shadow .3s;
+    border-radius:10px;
+    border: 0.5px solid #4f555d !important;
+}
+.button:hover {
+    color: white !important;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    background: #5277937a !important;
+}
+
+.tracking-button {
+    background: #b82c2c !important;    color: white !important;
+    box-shadow: 0 0 20px #000 !important;
+    transition: box-shadow .3s;
+    border-radius:10px;
+    border: 0.5px solid #4f555d !important;
+}
+.tracking-button:hover {
+    color: white !important;
+    box-shadow: 0 0 11px rgba(33,33,33,.2);
+    background: #b82c2cc4 !important;
+}
